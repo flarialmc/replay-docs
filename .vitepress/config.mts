@@ -54,8 +54,7 @@ export default defineConfig({
               { text: "Keyframes", link: "/common/keyframes/" },
               { text: "Interpolation", link: "/common/keyframes/interpolation" },
               { text: "Easing", link: "/common/keyframes/easing" },
-              { text: "Graphs and Bézier Curves", link: "/common/keyframes/graphs" },
-              { text: "Practice", link: "/common/keyframes/exercises" }
+              { text: "Graphs and Bézier Curves", link: "/common/keyframes/graphs" }
             ]
           },
           {
