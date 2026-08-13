@@ -28,6 +28,9 @@ features:
     details: Open saved sessions from the title screen and watch them inside a temporary local world.
   - title: Control
     details: Pause, seek, change speed, move the replay camera, and teleport to recorded players.
+  - title: Editor Blueprint
+    details: Learn timelines, keyframes, easing, camera paths, world changes, visibility, and audio.
+    link: /common/
 ---
 
 ## Experimental feature
